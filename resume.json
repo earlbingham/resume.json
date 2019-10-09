@@ -1,23 +1,23 @@
 {
   "basics": {
     "name": "Earl Bingham",
-    "label": "Web Developer",
+    "label": "Software Developer",
     "summary": "I’m a full stack web developer who loves working with open source technology. I work best at planning the architecture of web  applications and their development life cycles. I also love to get the community involved and have had much experience with building and organizing large open source groups. Specialties: React, Redux, Javascript - Full stack developer with lots of experience in lots of stuff.",
-    "website": "https://ajaxdavis.com",
-    "email": "thomasalwyndavis@gmail.com",
+    "website": "https://inmar.com",
+    "email": "earlbingham@gmail.com",
     "location": {
-      "city": "Melbourne",
-      "countryCode": "AU"
+      "city": "San Bruno",
+      "countryCode": "US"
     },
     "profiles": [
       {
-        "username": "ajaxdavis",
-        "url": "https://twitter.com/ajaxdavis",
+        "username": "earlbingham",
+        "url": "https://twitter.com/earlbingham",
         "network": "twitter"
       },
       {
-        "url": "https://github.com/thomasdavis",
-        "username": "thomasdavis",
+        "url": "https://github.com/earlbingham",
+        "username": "earlbingham",
         "network": "github"
       }
     ]
